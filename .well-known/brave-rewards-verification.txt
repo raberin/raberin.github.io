@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: raberin.me
-Token: dce05b8f3fc3c85b1a19c5a20b71f2f3eb6e8a4857b8debd1e303f04881c9470
